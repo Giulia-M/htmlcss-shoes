@@ -15,11 +15,12 @@
     transform: translate(-50%, -50%);
 }
 div.content-img img {
-    width: 80%;
+    width: 90%;
+    display: block;
+    margin: auto;
+    
 }
-div.content-img {
-    text-align: center;
-}
+
 p {
     color: yellow;
     text-align:center;
